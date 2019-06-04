@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1cfbd16-9c5b-4329-8b5f-1afd6423ce4f" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/markSpider$get_cookie.coverage" NAME="get_cookie Coverage Results" MODIFIED="1549957928309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/工作/TaoBaoRedisSpider/TaoBaoRedisSpider/get_cookies" />
+    <SUITE FILE_PATH="coverage/markSpider$run.coverage" NAME="run Coverage Results" MODIFIED="1554717136207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/20190320/taobao" />
+    <SUITE FILE_PATH="coverage/markSpider$generate_parameter.coverage" NAME="generate_parameter Coverage Results" MODIFIED="1556161203205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/工作/encryption" />
+    <SUITE FILE_PATH="coverage/markSpider$process_exception.coverage" NAME="process_exception Coverage Results" MODIFIED="1548731292691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/process_exception" />
+    <SUITE FILE_PATH="coverage/markSpider$start_one_page.coverage" NAME="start_one_page Coverage Results" MODIFIED="1550648371992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/markSpider$main.coverage" NAME="main Coverage Results" MODIFIED="1557832817291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/SplashTrademark/SplashTrademark/spiders" />
+    <SUITE FILE_PATH="coverage/markSpider$run__1_.coverage" NAME="run (1) Coverage Results" MODIFIED="1548911813907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../GanJi" />
+    <SUITE FILE_PATH="coverage/markSpider$ITjuziSpider.coverage" NAME="ITjuziSpider Coverage Results" MODIFIED="1557453958052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/20190510/IT_Orange/ItOrange/search" />
+    <SUITE FILE_PATH="coverage/markSpider$get_qi.coverage" NAME="get_qi Coverage Results" MODIFIED="1557832766507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/SplashTrademark/SplashTrademark/prepare" />
+    <SUITE FILE_PATH="coverage/markSpider$generate_parameter__1_.coverage" NAME="generate_parameter (1) Coverage Results" MODIFIED="1557828951136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/SplashTrademark/SplashTrademark/encryption" />
+    <SUITE FILE_PATH="coverage/markSpider$get_qi__1_.coverage" NAME="get_qi (1) Coverage Results" MODIFIED="1558070099285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../project/SplashTrademark/SplashTrademark/prepare" />
+    <SUITE FILE_PATH="coverage/markSpider$trademarkSpider.coverage" NAME="trademarkSpider Coverage Results" MODIFIED="1555385484652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/SplashTrademark/SplashTrademark/spiders" />
+    <SUITE FILE_PATH="coverage/markSpider$start.coverage" NAME="start Coverage Results" MODIFIED="1548988514911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/markSpider$keyword_to_redis.coverage" NAME="keyword_to_redis Coverage Results" MODIFIED="1550754629659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/工作/脚本文件" />
+    <SUITE FILE_PATH="coverage/markSpider$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1557994537515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../project/SplashTrademark/SplashTrademark/spiders" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="get_qi.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../project/SplashTrademark/SplashTrademark/prepare/get_qi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="233" column="8" lean-forward="true" selection-start-line="233" selection-start-column="8" selection-end-line="233" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trademarkSpider.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../project/SplashTrademark/SplashTrademark/spiders/trademarkSpider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="34" column="135" selection-start-line="34" selection-start-column="135" selection-end-line="34" selection-end-column="135" />
+              <folding>
+                <element signature="e#285#296#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>country</find>
+      <find>018014060</find>
+      <find>HAMB</find>
+      <find>018014155</find>
+      <find>公司名称</find>
+      <find>查看详情页的链接</find>
+      <find>compressToBase64</find>
+      <find>compress</find>
+      <find>aero</find>
+      <find>start</find>
+      <find>mark</find>
+      <find>ID</find>
+      <find>403</find>
+      <find>CHTM.052822019</find>
+      <find>CHTM.052872019</find>
+      <find>重试中间件处理中</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="E:/20190510/IT_Orange" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../CookiesPool/cookiespool/db.py" />
+        <option value="$PROJECT_DIR$/../CookiesPool/cookiespool/generator.py" />
+        <option value="$PROJECT_DIR$/../CookiesPool/cookiespool/importer.py" />
+        <option value="$PROJECT_DIR$/../CookiesPool/cookiespool/scheduler.py" />
+        <option value="$PROJECT_DIR$/../CookiesPool/cookiespool/tester.py" />
+        <option value="D:/工作/TaoBaoRedisSpider/TaoBaoRedisSpider/get_cookies/setting.py" />
+        <option value="D:/工作/TaoBaoRedisSpider/TaoBaoRedisSpider/util/get_proxies.py" />
+        <option value="D:/工作/TaoBaoRedisSpider/TaoBaoRedisSpider/settings.py" />
+        <option value="$PROJECT_DIR$/proxy/db.py" />
+        <option value="D:/工作/TaoBaoRedisSpider/TaoBaoRedisSpider/middlewares.py" />
+        <option value="D:/工作/TaoBaoRedisSpider/TaoBaoRedisSpider/get_cookies/get_cookie.py" />
+        <option value="$PROJECT_DIR$/scheduler/run.py" />
+        <option value="$PROJECT_DIR$/start_one_page.py" />
+        <option value="$PROJECT_DIR$/process_requests/process.py" />
+        <option value="$PROJECT_DIR$/scheduler/run_from_one_page.py" />
+        <option value="$PROJECT_DIR$/login/branddb_login.py" />
+        <option value="$PROJECT_DIR$/../CookiesPool/cookiespool/config.py" />
+        <option value="D:/工作/脚本文件/keyword_to_redis.py" />
+        <option value="D:/工作/TaoBaoRedisSpider/_makeQuery.js" />
+        <option value="$PROJECT_DIR$/../project/BOSS/Boss/Boss/proxy/get_proxies.py" />
+        <option value="$PROJECT_DIR$/../project/BOSS/Boss/Boss/proxy/setting.py" />
+        <option value="$PROJECT_DIR$/../project/BOSS/Boss/Boss/settings.py" />
+        <option value="E:/20190320/taobao/process_keyword/process_keyword.py" />
+        <option value="E:/20190320/taobao/start_requests/start_request.py" />
+        <option value="$PROJECT_DIR$/../Git Project/Tools/Tools/proxy/get_proxies.py" />
+        <option value="$PROJECT_DIR$/../project/whole_app/wandoujia/wandoujia/proxy/get_proxies.py" />
+        <option value="$PROJECT_DIR$/proxy/get_proxies.py" />
+        <option value="D:/工作/TaoBaoRedisSpider/TaoBaoRedisSpider/spiders/taoBaoSpider.py" />
+        <option value="$PROJECT_DIR$/../Git Project/ThreeGame/Three_DGame/Three_DGame/settings.py" />
+        <option value="$PROJECT_DIR$/../project/XiaoMiSpider_redis/XiaoMiRedis/settings.py" />
+        <option value="$PROJECT_DIR$/../project/XiaoMiSpider_redis/XiaoMiRedis/spiders/XiaoMiSpider_redis.py" />
+        <option value="D:/工作/encryption/first.js" />
+        <option value="D:/工作/encryption/setting.py" />
+        <option value="E:/SplashTrademark/SplashTrademark/spiders/trademark.py" />
+        <option value="E:/SplashTrademark/SplashTrademark/result/trademark.json" />
+        <option value="E:/SplashTrademark/SplashTrademark/list_urls/urs.json" />
+        <option value="E:/SplashTrademark/SplashTrademark/items.py" />
+        <option value="E:/SplashTrademark/SplashTrademark/pipelines.py" />
+        <option value="E:/SplashTrademark/SplashTrademark/middlewares.py" />
+        <option value="D:/工作/encryption/parameter_encrypt.js" />
+        <option value="D:/工作/encryption/generate_parameter.py" />
+        <option value="E:/20190510/IT_Orange/ItOrange/search/ITjuziSpider.py" />
+        <option value="E:/SplashTrademark/SplashTrademark/encryption/parameter_encrypt.js" />
+        <option value="E:/SplashTrademark/SplashTrademark/encryption/generate_parameter.py" />
+        <option value="E:/SplashTrademark/SplashTrademark/spiders/trademarkSpider.py" />
+        <option value="E:/SplashTrademark/SplashTrademark/settings.py" />
+        <option value="E:/SplashTrademark/SplashTrademark/prepare/get_qi.py" />
+        <option value="$PROJECT_DIR$/../project/SplashTrademark/SplashTrademark/settings.py" />
+        <option value="$PROJECT_DIR$/../project/SplashTrademark/SplashTrademark/encryption/parameter_encrypt.js" />
+        <option value="$PROJECT_DIR$/../project/SplashTrademark/SplashTrademark/spiders/trademarkSpider.py" />
+        <option value="$PROJECT_DIR$/../project/SplashTrademark/SplashTrademark/prepare/get_qi.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="174" />
+    <option name="y" value="246" />
+    <option name="width" value="1488" />
+    <option name="height" value="1017" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="markSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SplashTrademark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="markSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SplashTrademark" type="462c0819:PsiDirectoryNode" />
+              <item name="SplashTrademark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="markSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SplashTrademark" type="462c0819:PsiDirectoryNode" />
+              <item name="SplashTrademark" type="462c0819:PsiDirectoryNode" />
+              <item name="encryption" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="markSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SplashTrademark" type="462c0819:PsiDirectoryNode" />
+              <item name="SplashTrademark" type="462c0819:PsiDirectoryNode" />
+              <item name="list_urls" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="markSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SplashTrademark" type="462c0819:PsiDirectoryNode" />
+              <item name="SplashTrademark" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project/SplashTrademark" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\封鹏飞\Desktop\project\SplashTrademark\SplashTrademark\list_urls" />
+      <recent name="D:\工作\encryption" />
+      <recent name="D:\工作\TaoBaoRedisSpider\TaoBaoRedisSpider\util" />
+      <recent name="C:\Users\封鹏飞\Desktop\GanJi" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\封鹏飞\Desktop\GanJi\scheduler" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.get_qi (1)">
+    <configuration name="ITjuziSpider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ItOrange" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/20190510/IT_Orange/ItOrange/search" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/20190510/IT_Orange/ItOrange/search/ITjuziSpider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="generate_parameter (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SplashTrademark" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/SplashTrademark/SplashTrademark/encryption" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/SplashTrademark/SplashTrademark/encryption/generate_parameter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="get_qi (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SplashTrademark" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../project/SplashTrademark/SplashTrademark/prepare" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../project/SplashTrademark/SplashTrademark/prepare/get_qi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="get_qi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SplashTrademark" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/SplashTrademark/SplashTrademark/prepare" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/SplashTrademark/SplashTrademark/prepare/get_qi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SplashTrademark" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../project/SplashTrademark/SplashTrademark/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../project/SplashTrademark/SplashTrademark/spiders/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ITjuziSpider" />
+      <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.get_qi" />
+      <item itemvalue="Python.generate_parameter (1)" />
+      <item itemvalue="Python.get_qi (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.get_qi (1)" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.get_qi" />
+        <item itemvalue="Python.generate_parameter (1)" />
+        <item itemvalue="Python.ITjuziSpider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1cfbd16-9c5b-4329-8b5f-1afd6423ce4f" name="Default" comment="" />
+      <created>1548076177492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548076177492</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32943678" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49641576" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33333334" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23282135" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32616487" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.56350625" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.96953404" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27970898" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32616487" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33333334" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32943678" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.56350625" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://E:/SplashTrademark/full/NZTM.1118671.jpg" />
+    <entry file="file://E:/SplashTrademark/full/NZTM.1118670.jpg" />
+    <entry file="file://E:/SplashTrademark/full/NZTM.1118649.jpg" />
+    <entry file="file://E:/SplashTrademark/full/NZTM.1118641.jpg" />
+    <entry file="file://E:/SplashTrademark/full/NZTM.1118637.jpg" />
+    <entry file="file://E:/SplashTrademark/full/NZTM.1118635.jpg" />
+    <entry file="file://E:/SplashTrademark/full/CHTM.052852019.jpg" />
+    <entry file="file://E:/SplashTrademark/full/CHTM.052842019.jpg" />
+    <entry file="file://E:/SplashTrademark/full/CHTM.052832019.jpg" />
+    <entry file="file://E:/SplashTrademark/full/CHTM.052822019.jpg" />
+    <entry file="file://E:/SplashTrademark/full/CHTM.052792019.jpg" />
+    <entry file="file://E:/SplashTrademark/full/CHTM.052782019.jpg" />
+    <entry file="file://E:/SplashTrademark/full/CHTM.052772019.jpg" />
+    <entry file="file://E:/SplashTrademark/full/CHTM.052762019.jpg" />
+    <entry file="file://E:/SplashTrademark/full/CHTM.052642019.jpg" />
+    <entry file="file://E:/SplashTrademark/full/CHTM.052482019.jpg" />
+    <entry file="file://E:/SplashTrademark/full/CHTM.052442019.jpg" />
+    <entry file="file://E:/SplashTrademark/full/CHTM.052402019.jpg" />
+    <entry file="file://E:/SplashTrademark/full/CHTM.051992019.jpg" />
+    <entry file="file://E:/SplashTrademark/full/CHTM.052862019.jpg" />
+    <entry file="file://E:/SplashTrademark/full/CHTM.052492019.jpg" />
+    <entry file="file://E:/SplashTrademark/full/CHTM.053212019.jpg" />
+    <entry file="file://D:/工作/encryption/parameter_encrypt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="256" column="2" lean-forward="true" selection-start-line="256" selection-start-column="2" selection-end-line="256" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/工作/encryption/generate_parameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="68" column="206" selection-start-line="68" selection-start-column="206" selection-end-line="68" selection-end-column="206" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/SplashTrademark/SplashTrademark/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="66" column="41" lean-forward="true" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/SplashTrademark/SplashTrademark/proxy/get_proxies.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/SplashTrademark/SplashTrademark/proxy/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/SplashTrademark/SplashTrademark/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2432">
+          <caret line="132" column="27" selection-start-line="132" selection-start-column="27" selection-end-line="132" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/20190510/IT_Orange/ItOrange/search/ITjuziSpider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="167" column="56" lean-forward="true" selection-start-line="167" selection-start-column="56" selection-end-line="167" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/20190510/IT_Orange/ItOrange/search/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/SplashTrademark/SplashTrademark/list_urls/urs.json" />
+    <entry file="file://$PROJECT_DIR$/../project/SplashTrademark/SplashTrademark/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../project/SplashTrademark/SplashTrademark/record/record.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../project/SplashTrademark/SplashTrademark/result/trademark.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/SplashTrademark/full/IDTM.D002019019927.jpg" />
+    <entry file="file://E:/SplashTrademark/SplashTrademark/record/record.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="60" selection-start-column="60" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/SplashTrademark/SplashTrademark/result/trademark.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/SplashTrademark/SplashTrademark/encryption/parameter_encrypt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="267" column="133" selection-start-line="267" selection-start-column="133" selection-end-line="267" selection-end-column="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/SplashTrademark/SplashTrademark/encryption/generate_parameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="65" column="158" selection-start-line="65" selection-start-column="158" selection-end-line="65" selection-end-column="158" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/SplashTrademark/SplashTrademark/list_urls/urls.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/SplashTrademark/SplashTrademark/spiders/trademarkSpider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/SplashTrademark/SplashTrademark/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/SplashTrademark/SplashTrademark/prepare/get_qi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="224" column="25" selection-start-line="224" selection-start-column="25" selection-end-line="224" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/SplashTrademark/SplashTrademark/spiders/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../project/SplashTrademark/SplashTrademark/encryption/setting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../project/SplashTrademark/SplashTrademark/list_urls/urls.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../project/SplashTrademark/SplashTrademark/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="125" column="17" selection-start-line="125" selection-start-column="17" selection-end-line="125" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../project/SplashTrademark/SplashTrademark/spiders/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="49" lean-forward="true" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../project/SplashTrademark/SplashTrademark/encryption/parameter_encrypt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="263" column="96" selection-start-line="263" selection-start-column="96" selection-end-line="263" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../project/SplashTrademark/SplashTrademark/spiders/trademarkSpider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="34" column="135" selection-start-line="34" selection-start-column="135" selection-end-line="34" selection-end-column="135" />
+          <folding>
+            <element signature="e#285#296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../project/SplashTrademark/SplashTrademark/prepare/get_qi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="233" column="8" lean-forward="true" selection-start-line="233" selection-start-column="8" selection-end-line="233" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

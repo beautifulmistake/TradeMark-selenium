@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../project/BOSS/.idea/BOSS.iml" filepath="$PROJECT_DIR$/../project/BOSS/.idea/BOSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GanJi/.idea/GanJi.iml" filepath="$PROJECT_DIR$/../GanJi/.idea/GanJi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GanJiWang/.idea/GanJiWang.iml" filepath="$PROJECT_DIR$/../GanJiWang/.idea/GanJiWang.iml" />
+      <module fileurl="file://E:/20190510/IT_Orange/.idea/ItOrange.iml" filepath="E:/20190510/IT_Orange/.idea/ItOrange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project/SplashTrademark/.idea/SplashTrademark.iml" filepath="$PROJECT_DIR$/../project/SplashTrademark/.idea/SplashTrademark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project/SplashTrademark/.idea/SplashTrademark.iml" filepath="$PROJECT_DIR$/../project/SplashTrademark/.idea/SplashTrademark.iml" />
+      <module fileurl="file://D:/工作/TaoBaoRedisSpider/.idea/TaoBaoRedisSpider.iml" filepath="D:/工作/TaoBaoRedisSpider/.idea/TaoBaoRedisSpider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project/YouMinXingKong/.idea/YouMinXingKong.iml" filepath="$PROJECT_DIR$/../project/YouMinXingKong/.idea/YouMinXingKong.iml" />
+      <module fileurl="file://D:/工作/encryption/.idea/encryption.iml" filepath="D:/工作/encryption/.idea/encryption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/markSpider.iml" filepath="$PROJECT_DIR$/.idea/markSpider.iml" />
+      <module fileurl="file://E:/20190320/taobao/.idea/taobao.iml" filepath="E:/20190320/taobao/.idea/taobao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project/whole_app/.idea/whole_app.iml" filepath="$PROJECT_DIR$/../project/whole_app/.idea/whole_app.iml" />
+    </modules>
+  </component>
+</project>
