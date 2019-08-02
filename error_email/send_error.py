@@ -19,13 +19,13 @@ def _format_addr(s):
 
 
 # 发送人地址
-from_addr = '17319296359@163.com'
+from_addr = 'your email'
 
 # 邮箱密码
-password = 'pengfei38'
+password = 'your password'
 
 # 收件人地址
-to_addr = 'fengpengfei@quandashi.com'
+to_addr = ''
 
 # 163网易邮件服务器地址
 smtp_server = 'smtp.163.com'
